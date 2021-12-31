@@ -1,0 +1,9 @@
+{
+    "name": "mja/mail-plugin",
+    "type": "october-plugin",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}
